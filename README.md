@@ -29,10 +29,6 @@
 
 
 
-
-
-
-
 ### 添加 Secret 
 
 fork [项目](https://github.com/xiaoxiunique/schedule-jd)
@@ -46,9 +42,6 @@ fork [项目](https://github.com/xiaoxiunique/schedule-jd)
 ### 触发每日自动运行
 
 随便修改 Readme 触发自动运行
-
-
-
 
 
 随后会在每天10 点运行 次项目 获取每日京豆
